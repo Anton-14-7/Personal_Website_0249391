@@ -1,0 +1,35 @@
+div {
+    background-color: aqua;
+    color: red;
+}
+p {
+    font-family: cursive;
+}
+tbody {
+    background-color: green;
+}
+
+
+
+.header_info {
+    text-align: center;
+    font-family: 'Comic Neue', cursive;
+    font-size: ;
+}
+
+
+.destination1 {
+    background-color: navy;
+    color: white;
+    border-color: red;
+    border-width: 1cm;
+    border-style: dotted;
+}
+
+.destination tbody {
+    background-color: black;
+}
+
+.destination td {
+    font-family: 'Gil Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
